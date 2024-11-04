@@ -10,4 +10,5 @@ print(c)
 print(b)
 print(a)
 
-
+variable="rashmita"
+print(variable)
